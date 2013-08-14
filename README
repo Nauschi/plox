@@ -1,0 +1,12 @@
+Plox Documentation 1.0
+----------------------
+
+-CLASSES-
+
+-userinterface
+    EditorFrame:        GUI of the plox level editor
+      AnimationFrame:     frame which allows to stop the level editor's animation or modify the animation speed
+      BlockFrame:         frame for choosing the blocks to draw in the editor
+      GridFrame:          frame which specifies some option for the grid in the EditorFrame
+      SidebarFrame:       frame which allows some simple options for the editor; loading; saving and so on
+        SizeOkCancelDialog:   dialog for resizing the editors level
